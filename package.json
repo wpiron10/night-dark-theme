@@ -7,7 +7,10 @@
 	"engines": {
 		"vscode": "^1.85.0"
 	},
-	"repository": "https://github.com/wpiron10/night-dark-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wpiron10/night-dark-theme"
+	},
 	"categories": [
 		"Themes"
 	],
@@ -17,6 +20,13 @@
 				"label": "Night Dark Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/night-dark-color-theme-color-theme"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "extension-icon",
+				"label": "icon",
+				"path": "./fileicons/moon-and-start.png"
 			}
 		]
 	}
