@@ -11,6 +11,7 @@
 		"theme",
 		"dark"
 	],
+	"icon": "./icon.png",
 	"engines": {
 		"vscode": "^1.85.0"
 	},
