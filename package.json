@@ -28,13 +28,6 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/night-dark-color-theme-color-theme"
 			}
-		],
-		"iconThemes": [
-			{
-				"id": "extension-icon",
-				"label": "icon",
-				"path": "./fileicons/moon-and-start.png"
-			}
 		]
 	}
 }
