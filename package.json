@@ -4,6 +4,13 @@
 	"author": "wpiron10",
 	"description": "A simple blue dark theme with high contrast on syntax.",
 	"version": "0.0.1",
+	"publisher": "william-piron",
+	"keywords": [
+		"vscode",
+		"blue",
+		"theme",
+		"dark"
+	],
 	"engines": {
 		"vscode": "^1.85.0"
 	},
