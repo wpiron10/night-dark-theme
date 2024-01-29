@@ -1847,7 +1847,7 @@
   "colors": {
     "foreground": "#a3a3a3",
     "focusBorder": "#04102c",
-    "selection.background": "#04102c",
+    "selection.background": "#99a8cb",
     "scrollbar.shadow": "#04102c",
     "activityBar.foreground": "#a3a3a3",
     "activityBar.background": "#030c21",
@@ -2008,7 +2008,7 @@
     "scrollbarSlider.background": "#79797966",
     "scrollbarSlider.hoverBackground": "#646464b3",
     "scrollbarSlider.activeBackground": "#bfbfbf66",
-    "progressBar.background": "#00385a",
+    "progressBar.background": "#8282be",
     "widget.shadow": "#a3a3a31a",
     "editorWidget.foreground": "#cccccc",
     "editorWidget.background": "#030c21",
